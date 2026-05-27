@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "businessName": "Fleuriste Nice",
+    "tagline": "Art floral et compositions sur mesure à Nice",
+    "locale": "fr",
+    "primaryColor": "#e91e63",
+    "logoUrl": null
+  },
+  "navigation": [
+    {
+      "label": "Accueil",
+      "href": "/"
+    },
+    {
+      "label": "Services",
+      "href": "/services"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    }
+  ],
+  "home": {
+    "hero": {
+      "title": "Des fleurs fraîches pour chaque instant",
+      "subtitle": "Fleuriste à Nice, nous créons des bouquets et compositions pour toutes vos occasions, avec passion et savoir-faire.",
+      "ctaPrimary": {
+        "label": "Découvrir nos services",
+        "href": "/services"
+      },
+      "ctaSecondary": {
+        "label": "Nous contacter",
+        "href": "/contact"
+      },
+      "image": {
+        "url": "https://images.unsplash.com/photo-1531120364508-a6b656c3e78d?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHwxfHxmcmVzaCUyMGNvbG9yZnVsJTIwZmxvd2VyJTIwYm91cXVldCUyMHZhc2V8ZnJ8MHwwfHx8MTc3OTg5NzA4Nnww&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+        "alt": "assorted-color flowers on brown wood",
+        "imageQuery": "fresh colorful flower bouquet vase",
+        "photographer": "Niklas Ohlrogge (niamoh.de)",
+        "photographerUrl": "https://unsplash.com/@ohlrogge"
+      }
+    },
+    "servicesPreview": [
+      {
+        "title": "Bouquets sur mesure",
+        "description": "Composez votre bouquet unique, adapté à vos goûts et à l'événement.",
+        "href": "/services#bouquets-sur-mesure",
+        "image": {
+          "url": "https://images.unsplash.com/photo-1513271340539-d3a3150a82f9?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHwyfHxmbG9yaXN0JTIwYXJyYW5naW5nJTIwY3VzdG9tJTIwYm91cXVldHxmcnwwfDJ8fHwxNzc5ODk3MDg2fDA&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+          "alt": "woman holding flower bouquet hugging man",
+          "imageQuery": "florist arranging custom bouquet",
+          "photographer": "Colette Allen",
+          "photographerUrl": "https://unsplash.com/@aureliaphotos_"
+        }
+      },
+      {
+        "title": "Décoration événementielle",
+        "description": "Nous sublimons vos mariages, anniversaires et fêtes avec des compositions florales élégantes.",
+        "href": "/services#decoration-evenementielle",
+        "image": {
+          "url": "https://images.unsplash.com/photo-1598247535869-0b843a252a40?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHwxfHx3ZWRkaW5nJTIwZmxvcmFsJTIwZGVjb3JhdGlvbiUyMHdoaXRlJTIwcm9zZXN8ZnJ8MHwyfHx8MTc3OTg5NzA4N3ww&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+          "alt": "white rose in bloom close up photo",
+          "imageQuery": "wedding floral decoration white roses",
+          "photographer": "Marlon Michelle Corado",
+          "photographerUrl": "https://unsplash.com/@marloncorado"
+        }
+      },
+      {
+        "title": "Livraison à Nice",
+        "description": "Livraison rapide et soignée de vos fleurs dans tout Nice et ses environs.",
+        "href": "/services#livraison-a-nice",
+        "image": {
+          "url": "https://images.unsplash.com/photo-1654437050280-85996504dd8f?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHwxfHxmbG93ZXIlMjBkZWxpdmVyeSUyMHZhbiUyMG5pY2UlMjBzdHJlZXR8ZnJ8MHwyfHx8MTc3OTg5NzA4OHww&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+          "alt": "a green car with flowers in the back window",
+          "imageQuery": "flower delivery van nice street",
+          "photographer": "Yujie Wang",
+          "photographerUrl": "https://unsplash.com/@squanchy_v"
+        }
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Un bouquet magnifique pour l'anniversaire de ma femme, livré à l'heure et avec le sourire. Merci !",
+        "author": "Sophie L.",
+        "role": "Cliente",
+        "rating": 5
+      },
+      {
+        "quote": "La décoration florale de notre mariage était tout simplement parfaite. Un grand merci à toute l'équipe.",
+        "author": "Marc et Julie",
+        "role": "Mariés",
+        "rating": 5
+      },
+      {
+        "quote": "Je commande régulièrement pour offrir, les fleurs sont toujours fraîches et les compositions originales.",
+        "author": "Antoine D.",
+        "role": "Client fidèle",
+        "rating": 5
+      }
+    ],
+    "ctaBand": {
+      "title": "Envie d'un bouquet personnalisé ?",
+      "text": "Contactez-nous pour discuter de votre projet, nous sommes à votre écoute.",
+      "buttonLabel": "Nous écrire",
+      "buttonHref": "/contact"
+    }
+  },
+  "servicesPage": {
+    "intro": {
+      "title": "Nos services de fleuriste à Nice",
+      "description": "Que ce soit pour un événement, un cadeau ou simplement pour embellir votre quotidien, nous vous proposons des créations florales uniques, réalisées avec des fleurs de saison et un grand soin du détail."
+    },
+    "sections": [
+      {
+        "id": "bouquets-sur-mesure",
+        "title": "Bouquets sur mesure",
+        "description": "Chaque bouquet est unique, conçu selon vos envies, le message que vous souhaitez transmettre et la saison. Nous vous conseillons sur le choix des fleurs et des couleurs.",
+        "bullets": [
+          "Conseil personnalisé en boutique ou par téléphone",
+          "Fleurs de saison et locales autant que possible",
+          "Bouquets ronds, en cascade, champêtres ou modernes",
+          "Possibilité d'ajouter un vase ou un ruban"
+        ],
+        "image": {
+          "url": "https://images.unsplash.com/photo-1663659513309-6e00015df5b4?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHw1fHxmbG9yaXN0JTIwc2hvd2luZyUyMGN1c3RvbSUyMGJvdXF1ZXQlMjBjbGllbnR8ZnJ8MHwwfHx8MTc3OTg5NzA4OHww&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+          "alt": "a woman holding a bouquet of flowers",
+          "imageQuery": "florist showing custom bouquet client",
+          "photographer": "Kate Branch",
+          "photographerUrl": "https://unsplash.com/@katebranch"
+        }
+      },
+      {
+        "id": "decoration-evenementielle",
+        "title": "Décoration événementielle",
+        "description": "Nous accompagnons vos plus beaux moments : mariages, baptêmes, anniversaires, fêtes d'entreprise. De la simple composition de table à la décoration complète de la salle.",
+        "bullets": [
+          "Étude de votre projet et devis gratuit",
+          "Compositions florales pour tables, arches, bouquets de mariée",
+          "Location de vases et accessoires décoratifs",
+          "Installation et récupération sur place"
+        ],
+        "image": {
+          "url": "https://images.unsplash.com/photo-1768508664573-29827710bdc9?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHw2fHx3ZWRkaW5nJTIwdGFibGUlMjBmbG9yYWwlMjBkZWNvcmF0aW9uJTIwY2FuZGxlc3xmcnwwfDB8fHwxNzc5ODk3MDg5fDA&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+          "alt": "Woman writing at a table with flowers",
+          "imageQuery": "wedding table floral decoration candles",
+          "photographer": "Filip Rankovic Grobgaard",
+          "photographerUrl": "https://unsplash.com/@filipgrobgaard"
+        }
+      },
+      {
+        "id": "livraison-a-nice",
+        "title": "Livraison à Nice",
+        "description": "Nous livrons vos fleurs dans tout Nice et les communes limitrophes, du lundi au samedi. Commande en ligne ou par téléphone, livraison rapide et soignée.",
+        "bullets": [
+          "Livraison le jour même pour toute commande avant 14h",
+          "Créneaux de livraison matin, après-midi ou soir",
+          "Zone de livraison : Nice, Villefranche-sur-Mer, Saint-Laurent-du-Var",
+          "Emballage protecteur pour garantir la fraîcheur"
+        ],
+        "image": {
+          "url": "https://images.unsplash.com/photo-1555688952-08c3d3cf5661?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHw3fHxkZWxpdmVyeSUyMG1hbiUyMGhhbmRpbmclMjBmbG93ZXJzJTIwc21pbGluZyUyMHdvbWFufGZyfDB8MHx8fDE3Nzk4OTcwOTB8MA&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+          "alt": "woman holding bouquet of flower",
+          "imageQuery": "delivery man handing flowers smiling woman",
+          "photographer": "Ai Nhan",
+          "photographerUrl": "https://unsplash.com/@nhanai"
+        }
+      }
+    ]
+  },
+  "contactPage": {
+    "headline": "Parlons de votre projet floral",
+    "subtext": "Vous avez une question, une demande spéciale ou souhaitez passer commande ? Remplissez le formulaire ci-dessous ou contactez-nous directement. Nous vous répondrons dans les plus brefs délais.",
+    "fields": {
+      "name": "Votre nom",
+      "email": "Votre adresse email",
+      "message": "Votre message",
+      "submit": "Envoyer"
+    },
+    "successMessage": "Merci pour votre message ! Nous vous répondrons sous 24 heures.",
+    "sidebar": {
+      "phone": "04 93 00 00 00",
+      "email": "contact@fleuristenice.fr",
+      "hours": "Lundi - Samedi : 9h - 19h\nDimanche : 10h - 13h",
+      "address": "12 Rue des Fleurs, 06000 Nice"
+    }
+  },
+  "footer": {
+    "description": "Fleuriste à Nice depuis 2010, nous mettons notre passion et notre créativité au service de vos plus beaux moments.",
+    "phone": "04 93 00 00 00",
+    "email": "contact@fleuristenice.fr",
+    "address": "12 Rue des Fleurs, 06000 Nice",
+    "socialLinks": [],
+    "legalNote": "© 2025 Fleuriste Nice. Tous droits réservés."
+  }
+}
