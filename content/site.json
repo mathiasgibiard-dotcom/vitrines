@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "businessName": "Boulangerie Le Fournil",
+    "tagline": "Le goût du pain fait maison, au cœur de Nantes",
+    "locale": "fr",
+    "primaryColor": "#8B4513",
+    "logoUrl": null
+  },
+  "navigation": [
+    {
+      "label": "Accueil",
+      "href": "/"
+    },
+    {
+      "label": "Services",
+      "href": "/services"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    }
+  ],
+  "home": {
+    "hero": {
+      "title": "Le pain au levain, comme à la maison",
+      "subtitle": "Boulangerie artisanale à Nantes – pains, viennoiseries et douceurs préparés chaque jour avec des ingrédients locaux.",
+      "ctaPrimary": {
+        "label": "Découvrir nos services",
+        "href": "/services"
+      },
+      "ctaSecondary": {
+        "label": "Nous contacter",
+        "href": "/contact"
+      },
+      "image": {
+        "url": "https://images.unsplash.com/photo-1599819055803-717bba43890f?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHwxfHxmcmVzaCUyMHNvdXJkb3VnaCUyMGJyZWFkJTIwYmFrZXJ5fGZyfDB8MHx8fDE3Nzk4OTI0MjB8MA&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+        "alt": "brown bread on brown paper bag",
+        "imageQuery": "fresh sourdough bread bakery",
+        "photographer": "Bas Peperzak",
+        "photographerUrl": "https://unsplash.com/@bastroloog"
+      }
+    },
+    "servicesPreview": [
+      {
+        "title": "Pain au levain traditionnel",
+        "description": "Pétrissage lent, fermentation longue, cuisson au feu de bois. Un pain authentique pour vos repas.",
+        "href": "/services#pain-levain",
+        "image": {
+          "url": "https://images.unsplash.com/photo-1776654037962-951c6a4be94a?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHwyfHxzb3VyZG91Z2glMjBicmVhZCUyMHNsaWNlZCUyMHdvb2RlbiUyMGJvYXJkfGZyfDB8Mnx8fDE3Nzk4OTEyNzR8MA&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+          "alt": "Hands in gloves slicing loaf of white bread",
+          "imageQuery": "sourdough bread sliced wooden board",
+          "photographer": "Seyjoon Park",
+          "photographerUrl": "https://unsplash.com/@seyjoon"
+        }
+      },
+      {
+        "title": "Viennoiseries feuilletées",
+        "description": "Croissants, pains au chocolat, chaussons aux pommes – pur beurre, faits chaque matin.",
+        "href": "/services#viennoiseries",
+        "image": {
+          "url": "https://images.unsplash.com/photo-1626079450697-400437370a89?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHwzfHxmcmVzaCUyMGNyb2lzc2FudHMlMjBiYWtlcnklMjBjb29saW5nJTIwcmFja3xmcnwwfDJ8fHwxNzc5ODkyNDIxfDA&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+          "alt": "brown bread on brown wooden table",
+          "imageQuery": "fresh croissants bakery cooling rack",
+          "photographer": "Emmanuel Zua",
+          "photographerUrl": "https://unsplash.com/@oldblack"
+        }
+      },
+      {
+        "title": "Commande en ligne & livraison",
+        "description": "Commandez votre pain et vos viennoiseries depuis chez vous. Retrait en boutique ou livraison à Nantes.",
+        "href": "/services#commande-ligne",
+        "image": {
+          "url": "https://images.unsplash.com/placeholder",
+          "alt": "Sac en papier kraft contenant du pain et des viennoiseries",
+          "imageQuery": "paper bag bread pastries takeaway",
+          "photographer": null,
+          "photographerUrl": null
+        }
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Le meilleur pain de Nantes ! On sent le savoir-faire artisanal à chaque bouchée. Les croissants sont un pur délice.",
+        "author": "Sophie L.",
+        "role": "Cliente fidèle",
+        "rating": 5
+      },
+      {
+        "quote": "Je commande en ligne toutes les semaines. Livraison ponctuelle et produits toujours frais. Merci Le Fournil !",
+        "author": "Marc D.",
+        "role": "Client régulier",
+        "rating": 5
+      },
+      {
+        "quote": "Une boulangerie qui respecte les traditions et les produits locaux. Le pain au levain est incomparable.",
+        "author": "Julie R.",
+        "role": "Habitante du quartier",
+        "rating": 5
+      }
+    ],
+    "ctaBand": {
+      "title": "Prêt à goûter la différence ?",
+      "text": "Passez nous voir ou commandez en ligne pour un pain frais chaque jour.",
+      "buttonLabel": "Contactez-nous",
+      "buttonHref": "/contact"
+    }
+  },
+  "servicesPage": {
+    "intro": {
+      "title": "Nos services",
+      "description": "Chez Le Fournil, nous mettons tout notre cœur dans chaque préparation. Découvrez notre gamme de pains, viennoiseries et services pratiques pour vous régaler au quotidien."
+    },
+    "sections": [
+      {
+        "id": "pain-levain",
+        "title": "Pain au levain traditionnel",
+        "description": "Notre pain signature : levain naturel, farine bio locale, cuisson lente. Disponible en boule, bâtard ou baguette. Idéal pour accompagner vos repas ou vos tartines.",
+        "bullets": [
+          "Levain naturel maison (sans additifs)",
+          "Farine bio de meuniers nantais",
+          "Cuisson au four à bois pour une croûte croustillante",
+          "Plusieurs formats : 400g, 800g, baguette"
+        ],
+        "image": {
+          "url": "https://images.unsplash.com/placeholder",
+          "alt": "Pain au levain entier posé sur un torchon en lin",
+          "imageQuery": "whole sourdough bread linen towel",
+          "photographer": null,
+          "photographerUrl": null
+        }
+      },
+      {
+        "id": "viennoiseries",
+        "title": "Viennoiseries pur beurre",
+        "description": "Chaque matin, notre boulanger façonne des viennoiseries légères et dorées. Pur beurre AOP, pousse lente, résultat fondant.",
+        "bullets": [
+          "Croissants, pains au chocolat, chaussons aux pommes",
+          "Beurre AOP Charentes-Poitou",
+          "Fabriqués sur place chaque nuit",
+          "Possibilité de commander des assortiments"
+        ],
+        "image": {
+          "url": "https://images.unsplash.com/placeholder",
+          "alt": "Assortiment de viennoiseries sur un plateau en bois",
+          "imageQuery": "assorted french pastries wooden tray",
+          "photographer": null,
+          "photographerUrl": null
+        }
+      },
+      {
+        "id": "commande-ligne",
+        "title": "Commande en ligne & livraison",
+        "description": "Gagnez du temps : commandez vos pains et viennoiseries depuis notre site. Retrait gratuit en boutique ou livraison dans un rayon de 5 km autour de Nantes.",
+        "bullets": [
+          "Commande simple en 2 clics",
+          "Créneaux de retrait flexibles (matin/après-midi)",
+          "Livraison à domicile (frais offerts dès 20€)",
+          "Paiement sécurisé en ligne"
+        ],
+        "image": {
+          "url": "https://images.unsplash.com/photo-1575709307838-fe78ad0d75fc?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHw3fHxvbmxpbmUlMjBicmVhZCUyMG9yZGVyJTIwc21hcnRwaG9uZXxmcnwwfDB8fHwxNzc5ODkyNDI0fDA&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+          "alt": "black Android smartphone beside round white ceramic plate",
+          "imageQuery": "online bread order smartphone",
+          "photographer": "Giovanna Figliuolo",
+          "photographerUrl": "https://unsplash.com/@giovannafigliuolo_ladyalicesprings"
+        }
+      }
+    ]
+  },
+  "contactPage": {
+    "headline": "Contactez Le Fournil",
+    "subtext": "Une question, une commande spéciale, un avis ? Nous sommes à votre écoute. Réponse sous 24h.",
+    "fields": {
+      "name": "Votre nom",
+      "email": "Votre adresse email",
+      "message": "Votre message",
+      "submit": "Envoyer"
+    },
+    "successMessage": "Merci ! Nous avons bien reçu votre message et vous répondrons dans les plus brefs délais.",
+    "sidebar": {
+      "phone": "02 40 12 34 56",
+      "email": "bonjour@lefournil-nantes.fr",
+      "hours": "Lun–Sam : 7h–19h30 | Dim : 8h–13h",
+      "address": "12 Rue des Artisans, 44000 Nantes"
+    }
+  },
+  "footer": {
+    "description": "Boulangerie artisanale Le Fournil – pains au levain, viennoiseries et douceurs faites maison à Nantes. Venez découvrir le goût de l'authentique.",
+    "phone": "02 40 12 34 56",
+    "email": "bonjour@lefournil-nantes.fr",
+    "address": "12 Rue des Artisans, 44000 Nantes",
+    "socialLinks": [],
+    "legalNote": "© 2025 Boulangerie Le Fournil – Tous droits réservés. Site réalisé avec ❤️ à Nantes."
+  }
+}
