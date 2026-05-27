@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "businessName": "Pizzeria Bella Napoli",
+    "tagline": "La vraie pizza napolitaine au cœur de Bordeaux",
+    "locale": "fr",
+    "primaryColor": "#e63946",
+    "logoUrl": null
+  },
+  "navigation": [
+    {
+      "label": "Accueil",
+      "href": "/"
+    },
+    {
+      "label": "Services",
+      "href": "/services"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    }
+  ],
+  "home": {
+    "hero": {
+      "title": "Bienvenue chez Bella Napoli",
+      "subtitle": "Pizzas artisanales cuites au feu de bois, préparées avec des ingrédients frais et authentiques",
+      "ctaPrimary": {
+        "label": "Voir nos pizzas",
+        "href": "/services"
+      },
+      "ctaSecondary": {
+        "label": "Nous contacter",
+        "href": "/contact"
+      },
+      "image": {
+        "url": "https://images.unsplash.com/photo-1646656352194-7db15ee021bf?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHwxfHxwaXp6YSUyMG5hcG9sZXRhbmElMjB3b29kJTIwZmlyZWQlMjBvdmVufGZyfDB8MHx8fDE3Nzk4OTYzNjd8MA&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+        "alt": "an oven with a fire inside of it",
+        "imageQuery": "pizza napoletana wood fired oven",
+        "photographer": "Ambitious Studio* | Rick Barrett",
+        "photographerUrl": "https://unsplash.com/@weareambitious"
+      }
+    },
+    "servicesPreview": [
+      {
+        "title": "Pizzas classiques",
+        "description": "Margherita, Marinara, Diavola… nos recettes traditionnelles napolitaines préparées avec passion.",
+        "href": "/services#classiques",
+        "image": {
+          "url": "https://images.unsplash.com/placeholder",
+          "alt": "Pizza margherita avec mozzarella et basilic frais",
+          "imageQuery": "margherita pizza fresh basil",
+          "photographer": null,
+          "photographerUrl": null
+        }
+      },
+      {
+        "title": "Pizzas gourmet",
+        "description": "Des associations audacieuses : truffe, burrata, jambon de Parme, roquette… pour les palais exigeants.",
+        "href": "/services#gourmet",
+        "image": {
+          "url": "https://images.unsplash.com/photo-1727198826731-20f279d446d8?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHwzfHxnb3VybWV0JTIwcGl6emElMjBidXJyYXRhJTIwcHJvc2NpdXR0b3xmcnwwfDJ8fHwxNzc5ODk2MzY4fDA&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+          "alt": "A pizza sitting on top of a wooden cutting board",
+          "imageQuery": "gourmet pizza burrata prosciutto",
+          "photographer": "Racha Debbech",
+          "photographerUrl": "https://unsplash.com/@racha__debbech"
+        }
+      },
+      {
+        "title": "Pizzas végétariennes",
+        "description": "Légumes de saison, fromages italiens et herbes aromatiques pour une expérience légère et savoureuse.",
+        "href": "/services#vegetariennes",
+        "image": {
+          "url": "https://images.unsplash.com/photo-1655741138085-e5bd28f5b7f7?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHw0fHx2ZWdldGFyaWFuJTIwcGl6emElMjBiZWxsJTIwcGVwcGVycyUyMHp1Y2NoaW5pfGZyfDB8Mnx8fDE3Nzk4OTYzNjh8MA&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+          "alt": "a pizza with pepperoni and cheese",
+          "imageQuery": "vegetarian pizza bell peppers zucchini",
+          "photographer": "Elliot Simons",
+          "photographerUrl": "https://unsplash.com/@elliotphotographics"
+        }
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "La meilleure pizza de Bordeaux ! La pâte est légère, les ingrédients sont frais, et l'accueil est chaleureux.",
+        "author": "Sophie L.",
+        "role": "Cliente régulière",
+        "rating": 5
+      },
+      {
+        "quote": "Un vrai goût d'Italie. La Diavola est incroyablement épicée et savoureuse. Je recommande à 100%.",
+        "author": "Marc D.",
+        "role": "Habitant du quartier",
+        "rating": 5
+      },
+      {
+        "quote": "Service rapide et pizza végétarienne délicieuse. Parfait pour un dîner entre amis.",
+        "author": "Julie M.",
+        "role": "Touriste de passage",
+        "rating": 5
+      }
+    ],
+    "ctaBand": {
+      "title": "Prêt à déguster ?",
+      "text": "Commandez votre pizza en ligne ou venez nous rendre visite. Nous sommes ouverts tous les jours.",
+      "buttonLabel": "Contactez-nous",
+      "buttonHref": "/contact"
+    }
+  },
+  "servicesPage": {
+    "intro": {
+      "title": "Nos pizzas",
+      "description": "Chez Bella Napoli, chaque pizza est préparée à la main avec des ingrédients italiens de première qualité. Découvrez notre sélection."
+    },
+    "sections": [
+      {
+        "id": "classiques",
+        "title": "Pizzas classiques",
+        "description": "Les incontournables de la tradition napolitaine : pâte fine, tomate San Marzano, mozzarella fior di latte, basilic frais.",
+        "bullets": [
+          "Margherita : tomate, mozzarella, basilic",
+          "Marinara : tomate, ail, origan, huile d'olive",
+          "Diavola : tomate, mozzarella, salami piquant",
+          "Capricciosa : tomate, mozzarella, champignons, artichauts, olives"
+        ],
+        "image": {
+          "url": "https://images.unsplash.com/photo-1614936686168-fe496ca37dc3?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHw1fHxjbGFzc2ljJTIwbmVhcG9saXRhbiUyMHBpenphJTIwd29vZGVuJTIwYm9hcmR8ZnJ8MHwwfHx8MTc3OTg5NjM2OXww&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+          "alt": "person slicing pizza on brown wooden table",
+          "imageQuery": "classic neapolitan pizza wooden board",
+          "photographer": "Grant Ritchie",
+          "photographerUrl": "https://unsplash.com/@grantritchie"
+        }
+      },
+      {
+        "id": "gourmet",
+        "title": "Pizzas gourmet",
+        "description": "Des créations originales pour les amateurs de saveurs raffinées. Ingrédients sélectionnés avec soin.",
+        "bullets": [
+          "Tartufata : crème de truffe, mozzarella, champignons, parmesan",
+          "Burrata e Parma : burrata, jambon de Parme, roquette, tomates cerises",
+          "Gorgonzola e Pere : gorgonzola, poires caramélisées, noix, miel",
+          "Salmone : crème fraîche, saumon fumé, câpres, aneth"
+        ],
+        "image": {
+          "url": "https://images.unsplash.com/placeholder",
+          "alt": "Pizza gourmet avec burrata et roquette",
+          "imageQuery": "gourmet pizza burrata arugula",
+          "photographer": null,
+          "photographerUrl": null
+        }
+      },
+      {
+        "id": "vegetariennes",
+        "title": "Pizzas végétariennes",
+        "description": "Des pizzas colorées et légères, mettant à l'honneur les légumes de saison et les fromages italiens.",
+        "bullets": [
+          "Primavera : courgettes, poivrons, aubergines, tomates cerises, mozzarella",
+          "Funghi : champignons variés, thym, mozzarella, parmesan",
+          "Ortolana : artichauts, olives, oignons rouges, roquette, ricotta",
+          "Pomodoro e Basilico : tomates confites, basilic, mozzarella di bufala"
+        ],
+        "image": {
+          "url": "https://images.unsplash.com/photo-1712080235193-d9c4e61075a6?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHw3fHx2ZWdldGFyaWFuJTIwcGl6emElMjBncmlsbGVkJTIwdmVnZXRhYmxlcyUyMGhlcmJzfGZyfDB8MHx8fDE3Nzk4OTYzNzB8MA&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+          "alt": "a pizza on a cutting board with a fork and knife",
+          "imageQuery": "vegetarian pizza grilled vegetables herbs",
+          "photographer": "So Prathna Sim",
+          "photographerUrl": "https://unsplash.com/@so_prathna"
+        }
+      }
+    ]
+  },
+  "contactPage": {
+    "headline": "Contactez-nous",
+    "subtext": "Vous avez une question, une réservation ou une commande ? Remplissez le formulaire ou passez directement à la pizzeria.",
+    "fields": {
+      "name": "Votre nom",
+      "email": "Votre adresse email",
+      "message": "Votre message",
+      "submit": "Envoyer"
+    },
+    "successMessage": "Merci ! Nous vous répondrons dans les plus brefs délais.",
+    "sidebar": {
+      "phone": "05 56 12 34 56",
+      "email": "contact@pizzeriabella-napoli.fr",
+      "hours": "Lun - Dim : 11h30 - 14h30 / 18h30 - 22h30",
+      "address": "12 Rue des Pizzas, 33000 Bordeaux"
+    }
+  },
+  "footer": {
+    "description": "Pizzeria Bella Napoli – La vraie pizza napolitaine à Bordeaux. Pizzas artisanales cuites au feu de bois, livraison et à emporter.",
+    "phone": "05 56 12 34 56",
+    "email": "contact@pizzeriabella-napoli.fr",
+    "address": "12 Rue des Pizzas, 33000 Bordeaux",
+    "socialLinks": [],
+    "legalNote": "© 2025 Pizzeria Bella Napoli. Tous droits réservés."
+  }
+}
