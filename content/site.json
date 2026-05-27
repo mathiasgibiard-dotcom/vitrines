@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "businessName": "Le Petit Café",
+    "tagline": "Votre pause gourmande au cœur de Paris",
+    "locale": "fr",
+    "primaryColor": "#8B4513",
+    "logoUrl": null
+  },
+  "navigation": [
+    {
+      "label": "Accueil",
+      "href": "/"
+    },
+    {
+      "label": "Services",
+      "href": "/services"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    }
+  ],
+  "home": {
+    "hero": {
+      "title": "Le Petit Café",
+      "subtitle": "Savourez l'instant, chaque jour",
+      "ctaPrimary": {
+        "label": "Découvrir nos services",
+        "href": "/services"
+      },
+      "ctaSecondary": {
+        "label": "Nous contacter",
+        "href": "/contact"
+      },
+      "image": {
+        "url": "https://images.unsplash.com/photo-1602833334025-5019f046b8f7?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHwxfHxjb3p5JTIwUGFyaXNpYW4lMjBjYWZlJTIwaW50ZXJpb3J8ZnJ8MHwwfHx8MTc3OTg5NjY4M3ww&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+        "alt": "people sitting on chair near building during daytime",
+        "imageQuery": "cozy Parisian cafe interior",
+        "photographer": "Alex Harmuth",
+        "photographerUrl": "https://unsplash.com/@a_harmuth"
+      }
+    },
+    "servicesPreview": [
+      {
+        "title": "Petit-déjeuner & Brunch",
+        "description": "Commencez votre journée avec nos viennoiseries artisanales et cafés d'exception.",
+        "href": "/services#petit-dejeuner",
+        "image": {
+          "url": "https://images.unsplash.com/photo-1675125530520-cbd142b630b0?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHwxfHxGcmVuY2glMjBicmVha2Zhc3QlMjBjcm9pc3NhbnQlMjBjb2ZmZWV8ZnJ8MHwyfHx8MTc3OTg5NjY4NHww&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+          "alt": "a woman holding a croissant in her hand",
+          "imageQuery": "French breakfast croissant coffee",
+          "photographer": "S O C I A L . C U T",
+          "photographerUrl": "https://unsplash.com/@socialcut"
+        }
+      },
+      {
+        "title": "Déjeuner sur le pouce",
+        "description": "Formules rapides et savoureuses pour une pause midi réussie.",
+        "href": "/services#dejeuner",
+        "image": {
+          "url": "https://images.unsplash.com/photo-1604908553411-28e9c23910eb?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHwzfHxxdWljayUyMGx1bmNoJTIwc2FsYWQlMjBzYW5kd2ljaHxmcnwwfDJ8fHwxNzc5ODk2Njg0fDA&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+          "alt": "burger with lettuce and tomato",
+          "imageQuery": "quick lunch salad sandwich",
+          "photographer": "Farhad Ibrahimzade",
+          "photographerUrl": "https://unsplash.com/@ferhadd"
+        }
+      },
+      {
+        "title": "Événements privés",
+        "description": "Organisez vos anniversaires, afterworks ou réunions dans notre espace privatisable.",
+        "href": "/services#evenements",
+        "image": {
+          "url": "https://images.unsplash.com/photo-1543930995-e151aed665d2?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHw0fHxwcml2YXRlJTIwZXZlbnQlMjBjYWZlJTIwcGFydHl8ZnJ8MHwyfHx8MTc3OTg5NjY4NXww&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+          "alt": "smiling woman standing while wearing brown coat",
+          "imageQuery": "private event cafe party",
+          "photographer": "Gui Avelar",
+          "photographerUrl": "https://unsplash.com/@31gatanes"
+        }
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Le meilleur café du quartier ! L'accueil est chaleureux et les pâtisseries sont divines.",
+        "author": "Sophie L.",
+        "role": "Cliente régulière",
+        "rating": 5
+      },
+      {
+        "quote": "J'adore venir travailler ici le matin. L'ambiance est calme et le wifi est rapide.",
+        "author": "Marc D.",
+        "role": "Freelance",
+        "rating": 5
+      },
+      {
+        "quote": "Nous avons privatisé le café pour l'anniversaire de ma fille. Tout était parfait, merci !",
+        "author": "Caroline M.",
+        "role": "Maman organisatrice",
+        "rating": 5
+      }
+    ],
+    "ctaBand": {
+      "title": "Prêt pour une pause ?",
+      "text": "Passez nous voir ou réservez votre table en ligne.",
+      "buttonLabel": "Contactez-nous",
+      "buttonHref": "/contact"
+    }
+  },
+  "servicesPage": {
+    "intro": {
+      "title": "Nos Services",
+      "description": "Du petit-déjeuner à l'événement privé, nous mettons tout en œuvre pour vous offrir un moment de qualité."
+    },
+    "sections": [
+      {
+        "id": "petit-dejeuner",
+        "title": "Petit-déjeuner & Brunch",
+        "description": "Un large choix de viennoiseries maison, pains spéciaux, œufs, fruits frais et bien sûr notre café torréfié artisanalement. Servi tous les jours de 7h à 11h30, et le week-end jusqu'à 14h pour un brunch copieux.",
+        "bullets": [
+          "Viennoiseries pur beurre fabriquées sur place",
+          "Café en grains de spécialité (Éthiopie, Colombie, Brésil)",
+          "Formules brunch à partir de 15€",
+          "Options végétariennes et sans gluten disponibles"
+        ],
+        "image": {
+          "url": "https://images.unsplash.com/photo-1634816492740-8dc8e0665e5e?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHw1fHxGcmVuY2glMjBicmVha2Zhc3QlMjB0cmF5JTIwY29mZmVlJTIwY3JvaXNzYW50fGZyfDB8MHx8fDE3Nzk4OTY2ODZ8MA&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+          "alt": "a plate of food and a cup of coffee on a bed",
+          "imageQuery": "French breakfast tray coffee croissant",
+          "photographer": "Z Graphica",
+          "photographerUrl": "https://unsplash.com/@kiki_1323"
+        }
+      },
+      {
+        "id": "dejeuner",
+        "title": "Déjeuner sur le pouce",
+        "description": "Entre 12h et 14h30, profitez de nos formules rapides : sandwichs chauds, salades composées, quiches du jour et soupes maison. Tout est préparé avec des produits frais et de saison.",
+        "bullets": [
+          "Formule entrée + plat + dessert à 12,90€",
+          "Sandwichs chauds (poulet curry, chèvre miel, jambon comté)",
+          "Salades composées (César, niçoise, avocat crevettes)",
+          "Pâtisseries du jour en dessert"
+        ],
+        "image": {
+          "url": "https://images.unsplash.com/photo-1760432794122-fa000107a4bc?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHw2fHxjYWZlJTIwY291bnRlciUyMHNhbmR3aWNoZXMlMjBzYWxhZHMlMjBkaXNwbGF5fGZyfDB8MHx8fDE3Nzk4OTY2ODZ8MA&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+          "alt": "Counter with display case and 'order' sign.",
+          "imageQuery": "cafe counter sandwiches salads display",
+          "photographer": "Thoriq Shobih",
+          "photographerUrl": "https://unsplash.com/@anfolt"
+        }
+      },
+      {
+        "id": "evenements",
+        "title": "Événements privés",
+        "description": "Notre salle à l'arrière peut accueillir jusqu'à 30 personnes. Idéale pour les anniversaires, afterworks, réunions d'équipe ou ateliers. Nous adaptons le menu selon vos envies.",
+        "bullets": [
+          "Espace privatisable jusqu'à 30 personnes",
+          "Formules apéritif dînatoire ou buffet",
+          "Sonorisation et vidéoprojecteur disponibles",
+          "Réservation au moins 1 semaine à l'avance"
+        ],
+        "image": {
+          "url": "https://images.unsplash.com/placeholder",
+          "alt": "Salle de café décorée pour un événement privé avec guirlandes lumineuses",
+          "imageQuery": "private event room cafe decorations",
+          "photographer": null,
+          "photographerUrl": null
+        }
+      }
+    ]
+  },
+  "contactPage": {
+    "headline": "Contactez-nous",
+    "subtext": "Une question, une réservation ou simplement envie de nous dire bonjour ? Remplissez le formulaire ou passez directement.",
+    "fields": {
+      "name": "Votre nom",
+      "email": "Votre adresse email",
+      "message": "Votre message",
+      "submit": "Envoyer"
+    },
+    "successMessage": "Merci ! Nous vous répondrons dans les plus brefs délais.",
+    "sidebar": {
+      "phone": "01 23 45 67 89",
+      "email": "bonjour@lepetitcafe.paris",
+      "hours": "Lun-Ven : 7h-19h | Sam-Dim : 8h-18h",
+      "address": "12 Rue de la Paix, 75002 Paris"
+    }
+  },
+  "footer": {
+    "description": "Le Petit Café – Votre pause gourmande au cœur de Paris. Café artisanal, pâtisseries maison et moments de partage.",
+    "phone": "01 23 45 67 89",
+    "email": "bonjour@lepetitcafe.paris",
+    "address": "12 Rue de la Paix, 75002 Paris",
+    "socialLinks": [],
+    "legalNote": "© 2025 Le Petit Café. Tous droits réservés."
+  }
+}
