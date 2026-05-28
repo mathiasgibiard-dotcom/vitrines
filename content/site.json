@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "businessName": "Plomberie Express",
+    "tagline": "Votre plombier de confiance, intervention rapide 7j/7",
+    "locale": "fr",
+    "primaryColor": "#1E90FF",
+    "logoUrl": null
+  },
+  "navigation": [
+    {
+      "label": "Accueil",
+      "href": "/"
+    },
+    {
+      "label": "Services",
+      "href": "/services"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    }
+  ],
+  "home": {
+    "hero": {
+      "title": "Plombier professionnel à votre service",
+      "subtitle": "Intervention rapide, devis gratuit, satisfaction garantie",
+      "ctaPrimary": {
+        "label": "Demander un devis",
+        "href": "/contact"
+      },
+      "ctaSecondary": {
+        "label": "Voir nos services",
+        "href": "/services"
+      },
+      "image": {
+        "url": "https://images.unsplash.com/photo-1773863120758-172bd05090d2?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHwxfHxwbHVtYmVyJTIwc21pbGluZyUyMGhvbGRpbmclMjB3cmVuY2glMjBiYXRocm9vbXxmcnwwfDB8fHwxNzc5OTczNDc3fDA&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+        "alt": "Man brushing teeth in front of a bathroom mirror.",
+        "imageQuery": "plumber smiling holding wrench bathroom",
+        "photographer": "Konstantinos Papadopoulos",
+        "photographerUrl": "https://unsplash.com/@kosti_2"
+      }
+    },
+    "servicesPreview": [
+      {
+        "title": "Dépannage urgent",
+        "description": "Fuite, canalisation bouchée, chauffe-eau en panne ? Nous intervenons sous 2h.",
+        "href": "/services#depannage",
+        "image": {
+          "url": "https://images.unsplash.com/placeholder",
+          "alt": "Plombier réparant une fuite sous un évier de cuisine",
+          "imageQuery": "plumber fixing leak under kitchen sink",
+          "photographer": null,
+          "photographerUrl": null
+        }
+      },
+      {
+        "title": "Installation sanitaire",
+        "description": "Pose de robinetterie, WC, lavabo, douche, baignoire : installation soignée et garantie.",
+        "href": "/services#installation",
+        "image": {
+          "url": "https://images.unsplash.com/photo-1651415223860-1a4bf68510c4?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHwxfHxwbHVtYmVyJTIwaW5zdGFsbGluZyUyMG1vZGVybiUyMHNpbmslMjBiYXRocm9vbXxmcnwwfDJ8fHwxNzc5OTczNDc4fDA&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+          "alt": "a bathroom with a bathtub and toilet",
+          "imageQuery": "plumber installing modern sink bathroom",
+          "photographer": "Omar Shabana",
+          "photographerUrl": "https://unsplash.com/@shabna_ko"
+        }
+      },
+      {
+        "title": "Chauffe-eau et chaudière",
+        "description": "Entretien, réparation et remplacement de chauffe-eau et chaudière, toutes marques.",
+        "href": "/services#chauffage",
+        "image": {
+          "url": "https://images.unsplash.com/placeholder",
+          "alt": "Plombier vérifiant un chauffe-eau électrique dans un sous-sol",
+          "imageQuery": "plumber checking water heater basement",
+          "photographer": null,
+          "photographerUrl": null
+        }
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Intervention très rapide pour une fuite d'eau un dimanche. Travail propre et prix correct. Je recommande !",
+        "author": "Sophie L.",
+        "role": "Cliente depuis 2022",
+        "rating": 5
+      },
+      {
+        "quote": "Excellent travail pour l'installation de notre nouvelle salle de bain. Professionnel et à l'écoute.",
+        "author": "Marc D.",
+        "role": "Propriétaire",
+        "rating": 5
+      },
+      {
+        "quote": "Chauffe-eau changé en une journée. Équipe sympathique et efficace. Merci !",
+        "author": "Émilie R.",
+        "role": "Cliente",
+        "rating": 5
+      }
+    ],
+    "ctaBand": {
+      "title": "Besoin d'un plombier ?",
+      "text": "Contactez-nous pour un devis gratuit et une intervention rapide.",
+      "buttonLabel": "Contactez-nous",
+      "buttonHref": "/contact"
+    }
+  },
+  "servicesPage": {
+    "intro": {
+      "title": "Nos services de plomberie",
+      "description": "Que ce soit pour une urgence, une rénovation ou un entretien, notre équipe de plombiers expérimentés intervient dans toute la région. Devis gratuit, travail soigné et garantie."
+    },
+    "sections": [
+      {
+        "id": "depannage",
+        "title": "Dépannage plomberie urgent",
+        "description": "Fuite d'eau, canalisation bouchée, WC qui fuit, robinet qui goutte ? Nous intervenons 7j/7, même les jours fériés. Notre équipe arrive avec tout le matériel nécessaire pour une réparation rapide et durable.",
+        "bullets": [
+          "Intervention sous 2h en urgence",
+          "Détection de fuite sans casse",
+          "Débouchage canalisation (eau, WC, évier)",
+          "Réparation chasse d'eau et robinetterie"
+        ],
+        "image": {
+          "url": "https://images.unsplash.com/placeholder",
+          "alt": "Plombier utilisant une caméra d'inspection pour détecter une fuite dans un tuyau",
+          "imageQuery": "plumber using inspection camera detecting leak pipe",
+          "photographer": null,
+          "photographerUrl": null
+        }
+      },
+      {
+        "id": "installation",
+        "title": "Installation sanitaire",
+        "description": "Vous rénovez votre salle de bain ou cuisine ? Nous installons tous types d'équipements sanitaires : lavabo, WC, douche, baignoire, robinetterie, mitigeur. Pose soignée et raccordement aux normes.",
+        "bullets": [
+          "Pose de lavabo, vasque, meuble salle de bain",
+          "Installation WC suspendu ou classique",
+          "Douche à l'italienne et receveur",
+          "Raccordement cuisine (évier, lave-vaisselle)"
+        ],
+        "image": {
+          "url": "https://images.unsplash.com/photo-1613839397604-65fffe7fc3d4?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHw2fHxwbHVtYmVyJTIwaW5zdGFsbGluZyUyMG1vZGVybiUyMGZhdWNldCUyMGtpdGNoZW4lMjBzaW5rfGZyfDB8MHx8fDE3Nzk5NzM0Nzl8MA&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+          "alt": "man in black and white plaid dress shirt wearing black helmet",
+          "imageQuery": "plumber installing modern faucet kitchen sink",
+          "photographer": "Memento Media",
+          "photographerUrl": "https://unsplash.com/@heymemento"
+        }
+      },
+      {
+        "id": "chauffage",
+        "title": "Chauffe-eau et chaudière",
+        "description": "Entretien annuel, réparation ou remplacement de votre chauffe-eau électrique, gaz ou thermodynamique. Nous travaillons avec les grandes marques (Atlantic, Thermor, Saunier Duval, Viessmann).",
+        "bullets": [
+          "Remplacement chauffe-eau (toutes capacités)",
+          "Entretien et dépannage chaudière",
+          "Détartrage et maintenance préventive",
+          "Installation chauffe-eau thermodynamique"
+        ],
+        "image": {
+          "url": "https://images.unsplash.com/photo-1685186112493-564c68f75d57?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHw3fHxwbHVtYmVyJTIwc2VydmljaW5nJTIwZ2FzJTIwd2FsbCUyMG1vdW50ZWQlMjBib2lsZXJ8ZnJ8MHwwfHx8MTc3OTk3MzQ4MHww&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+          "alt": "a man is putting something in a cooler",
+          "imageQuery": "plumber servicing gas wall mounted boiler",
+          "photographer": "Masjid Pogung Raya",
+          "photographerUrl": "https://unsplash.com/@masjidpogungraya"
+        }
+      }
+    ]
+  },
+  "contactPage": {
+    "headline": "Contactez-nous",
+    "subtext": "Besoin d'un devis, d'une intervention urgente ou d'un conseil ? Remplissez le formulaire ci-dessous, nous vous répondrons dans les plus brefs délais.",
+    "fields": {
+      "name": "Votre nom",
+      "email": "Votre email",
+      "message": "Votre message",
+      "submit": "Envoyer"
+    },
+    "successMessage": "Merci ! Votre message a bien été envoyé. Nous vous répondrons sous 24h.",
+    "sidebar": {
+      "phone": "01 23 45 67 89",
+      "email": "contact@plomberie-express.fr",
+      "hours": "Lun-Sam : 8h-19h | Dimanche et jours fériés : 9h-17h",
+      "address": "12 Rue de la Plomberie, 75001 Paris"
+    }
+  },
+  "footer": {
+    "description": "Plomberie Express – Votre artisan plombier à Paris et proche banlieue. Intervention rapide, devis gratuit, travail garanti.",
+    "phone": "01 23 45 67 89",
+    "email": "contact@plomberie-express.fr",
+    "address": "12 Rue de la Plomberie, 75001 Paris",
+    "socialLinks": [],
+    "legalNote": "© 2025 Plomberie Express. SAS au capital de 10 000€. RCS Paris 123 456 789. Mentions légales."
+  }
+}
