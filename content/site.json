@@ -1,9 +1,9 @@
 {
   "meta": {
     "businessName": "Boulangerie Le Fournil",
-    "tagline": "Le goût du pain fait maison, au cœur de Nantes",
+    "tagline": "Plombier chauffagiste à Rouen — dépannage 7j/7",
     "locale": "fr",
-    "primaryColor": "#8B4513",
+    "primaryColor": "#0284c7",
     "logoUrl": null
   },
   "navigation": [
@@ -22,174 +22,180 @@
   ],
   "home": {
     "hero": {
-      "title": "Le pain au levain, comme à la maison",
-      "subtitle": "Boulangerie artisanale à Nantes – pains, viennoiseries et douceurs préparés chaque jour avec des ingrédients locaux.",
+      "title": "Votre plombier de confiance à Rouen",
+      "subtitle": "Intervention rapide pour fuites, chauffe-eau, salles de bain et rénovation. Devis gratuit sous 24 h, artisans qualifiés RGE.",
       "ctaPrimary": {
-        "label": "Découvrir nos services",
-        "href": "/services"
-      },
-      "ctaSecondary": {
-        "label": "Nous contacter",
+        "label": "Demander un devis",
         "href": "/contact"
       },
+      "ctaSecondary": {
+        "label": "Voir nos services",
+        "href": "/services"
+      },
       "image": {
-        "url": "https://images.unsplash.com/photo-1599819055803-717bba43890f?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHwxfHxmcmVzaCUyMHNvdXJkb3VnaCUyMGJyZWFkJTIwYmFrZXJ5fGZyfDB8MHx8fDE3Nzk4OTI0MjB8MA&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
-        "alt": "brown bread on brown paper bag",
-        "imageQuery": "fresh sourdough bread bakery",
-        "photographer": "Bas Peperzak",
-        "photographerUrl": "https://unsplash.com/@bastroloog"
+        "url": "https://images.unsplash.com/photo-1777077239424-5885d28713d5?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHwxfHxQbG9tYmllciUyMHByb2Zlc3Npb25uZWwlMjBlbiUyMGludGVydmVudGlvbnxmcnwwfDB8fHwxNzc5ODc3NzcyfDA&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+        "alt": "Man in sunglasses on a ladder truck",
+        "imageQuery": "Plombier professionnel en intervention",
+        "photographer": "Ryleigh Henschen",
+        "photographerUrl": "https://unsplash.com/@ryleighhenschen"
       }
     },
     "servicesPreview": [
       {
-        "title": "Pain au levain traditionnel",
-        "description": "Pétrissage lent, fermentation longue, cuisson au feu de bois. Un pain authentique pour vos repas.",
-        "href": "/services#pain-levain",
+        "title": "Dépannage urgent",
+        "description": "Fuite d'eau, canalisation bouchée, chauffe-eau en panne — intervention sous 2 h en agglo rouennaise.",
+        "href": "/services#depannage",
         "image": {
-          "url": "https://images.unsplash.com/photo-1776654037962-951c6a4be94a?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHwyfHxzb3VyZG91Z2glMjBicmVhZCUyMHNsaWNlZCUyMHdvb2RlbiUyMGJvYXJkfGZyfDB8Mnx8fDE3Nzk4OTEyNzR8MA&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
-          "alt": "Hands in gloves slicing loaf of white bread",
-          "imageQuery": "sourdough bread sliced wooden board",
-          "photographer": "Seyjoon Park",
-          "photographerUrl": "https://unsplash.com/@seyjoon"
+          "url": "https://images.unsplash.com/photo-1542494553-a6ce0f1f6ece?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHwyfHxEJUMzJUE5cGFubmFnZSUyMHVyZ2VudHxmcnwwfDJ8fHwxNzc5ODc3NzcyfDA&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+          "alt": "man holding white stylus pen",
+          "imageQuery": "Dépannage urgent",
+          "photographer": "Rietveld Ruben",
+          "photographerUrl": "https://unsplash.com/@rben13"
         }
       },
       {
-        "title": "Viennoiseries feuilletées",
-        "description": "Croissants, pains au chocolat, chaussons aux pommes – pur beurre, faits chaque matin.",
-        "href": "/services#viennoiseries",
+        "title": "Salle de bain",
+        "description": "Création et rénovation clé en main : douche italienne, carrelage, robinetterie design.",
+        "href": "/services#salle-de-bain",
         "image": {
-          "url": "https://images.unsplash.com/photo-1626079450697-400437370a89?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHwzfHxmcmVzaCUyMGNyb2lzc2FudHMlMjBiYWtlcnklMjBjb29saW5nJTIwcmFja3xmcnwwfDJ8fHwxNzc5ODkyNDIxfDA&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
-          "alt": "brown bread on brown wooden table",
-          "imageQuery": "fresh croissants bakery cooling rack",
-          "photographer": "Emmanuel Zua",
-          "photographerUrl": "https://unsplash.com/@oldblack"
+          "url": "https://images.unsplash.com/photo-1644421439741-712c7fde7e95?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHwzfHxTYWxsZSUyMGRlJTIwYmFpbnxmcnwwfDJ8fHwxNzc5ODc3NzczfDA&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+          "alt": "a bathroom with a toilet, sink and mirror",
+          "imageQuery": "Salle de bain",
+          "photographer": "Ali Moradi",
+          "photographerUrl": "https://unsplash.com/@3dartistmoradi"
         }
       },
       {
-        "title": "Commande en ligne & livraison",
-        "description": "Commandez votre pain et vos viennoiseries depuis chez vous. Retrait en boutique ou livraison à Nantes.",
-        "href": "/services#commande-ligne",
+        "title": "Chauffage & eau chaude",
+        "description": "Installation et entretien de chaudières, pompes à chaleur et ballons thermodynamiques.",
+        "href": "/services#chauffage",
         "image": {
-          "url": "https://images.unsplash.com/placeholder",
-          "alt": "Sac en papier kraft contenant du pain et des viennoiseries",
-          "imageQuery": "paper bag bread pastries takeaway",
-          "photographer": null,
-          "photographerUrl": null
+          "url": "https://images.unsplash.com/photo-1638975574479-256d8eb43fa6?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHw0fHxDaGF1ZmZhZ2UlMjAlMjYlMjBlYXUlMjBjaGF1ZGV8ZnJ8MHwyfHx8MTc3OTg3Nzc3M3ww&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+          "alt": "a shower head in a bathroom next to a window",
+          "imageQuery": "Chauffage & eau chaude",
+          "photographer": "Max Ovcharenko",
+          "photographerUrl": "https://unsplash.com/@chestmax"
         }
       }
     ],
     "testimonials": [
       {
-        "quote": "Le meilleur pain de Nantes ! On sent le savoir-faire artisanal à chaque bouchée. Les croissants sont un pur délice.",
-        "author": "Sophie L.",
-        "role": "Cliente fidèle",
+        "quote": "Intervention un dimanche soir pour une fuite sous l'évier — arrivée en 45 minutes, problème réglé proprement. Je recommande sans hésiter.",
+        "author": "Sophie Martin",
+        "role": "Mont-Saint-Aignan",
         "rating": 5
       },
       {
-        "quote": "Je commande en ligne toutes les semaines. Livraison ponctuelle et produits toujours frais. Merci Le Fournil !",
-        "author": "Marc D.",
-        "role": "Client régulier",
+        "quote": "Rénovation complète de notre salle de bain à Saint-Sever. Devis clair, délais tenus, finitions impeccables.",
+        "author": "Marc & Julie Leroy",
+        "role": "Rouen rive droite",
         "rating": 5
       },
       {
-        "quote": "Une boulangerie qui respecte les traditions et les produits locaux. Le pain au levain est incomparable.",
-        "author": "Julie R.",
-        "role": "Habitante du quartier",
+        "quote": "Remplacement de chaudière gaz par une PAC : accompagnement pour les aides MaPrimeRénov', très pro.",
+        "author": "Philippe Garnier",
+        "role": "Sotteville-lès-Rouen",
         "rating": 5
       }
     ],
     "ctaBand": {
-      "title": "Prêt à goûter la différence ?",
-      "text": "Passez nous voir ou commandez en ligne pour un pain frais chaque jour.",
-      "buttonLabel": "Contactez-nous",
+      "title": "Une urgence plomberie à Rouen ?",
+      "text": "Appelez-nous ou envoyez un message — nous vous rappelons dans l'heure aux heures ouvrables.",
+      "buttonLabel": "Nous contacter",
       "buttonHref": "/contact"
     }
   },
   "servicesPage": {
     "intro": {
-      "title": "Nos services",
-      "description": "Chez Le Fournil, nous mettons tout notre cœur dans chaque préparation. Découvrez notre gamme de pains, viennoiseries et services pratiques pour vous régaler au quotidien."
+      "title": "Nos prestations plomberie & chauffage",
+      "description": "Plomberie Dubois accompagne particuliers et professionnels sur Rouen et l'agglomération (rayon 30 km). Tous nos techniciens sont assurés et formés aux normes en vigueur."
     },
     "sections": [
       {
-        "id": "pain-levain",
-        "title": "Pain au levain traditionnel",
-        "description": "Notre pain signature : levain naturel, farine bio locale, cuisson lente. Disponible en boule, bâtard ou baguette. Idéal pour accompagner vos repas ou vos tartines.",
+        "id": "depannage",
+        "title": "Dépannage & urgences",
+        "description": "Disponibles 7j/7 pour les situations critiques : infiltration, rupture de canalisation, WC bouchés, absence d'eau chaude.",
         "bullets": [
-          "Levain naturel maison (sans additifs)",
-          "Farine bio de meuniers nantais",
-          "Cuisson au four à bois pour une croûte croustillante",
-          "Plusieurs formats : 400g, 800g, baguette"
+          "Devis sur place avant intervention",
+          "Matériel professionnel embarqué",
+          "Rapport photo pour votre assurance"
         ],
         "image": {
-          "url": "https://images.unsplash.com/placeholder",
-          "alt": "Pain au levain entier posé sur un torchon en lin",
-          "imageQuery": "whole sourdough bread linen towel",
-          "photographer": null,
-          "photographerUrl": null
+          "url": "https://images.unsplash.com/photo-1659353586855-83f3bbb6bd90?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHw1fHxEJUMzJUE5cGFubmFnZSUyMCUyNiUyMHVyZ2VuY2VzfGZyfDB8MHx8fDE3Nzk4Nzc3NzR8MA&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+          "alt": "a man wearing a hard hat and holding a pipe",
+          "imageQuery": "Dépannage & urgences",
+          "photographer": "Fotos",
+          "photographerUrl": "https://unsplash.com/@fotospk"
         }
       },
       {
-        "id": "viennoiseries",
-        "title": "Viennoiseries pur beurre",
-        "description": "Chaque matin, notre boulanger façonne des viennoiseries légères et dorées. Pur beurre AOP, pousse lente, résultat fondant.",
+        "id": "salle-de-bain",
+        "title": "Salle de bain & rénovation",
+        "description": "Du plan 3D à la pose finale : nous coordonnons plomberie, carrelage et électricité pour un projet sans stress.",
         "bullets": [
-          "Croissants, pains au chocolat, chaussons aux pommes",
-          "Beurre AOP Charentes-Poitou",
-          "Fabriqués sur place chaque nuit",
-          "Possibilité de commander des assortiments"
+          "Douche à l'italienne et baignoires",
+          "Robinetterie Grohe, Hansgrohe, etc.",
+          "Garantie décennale sur les travaux"
         ],
         "image": {
-          "url": "https://images.unsplash.com/placeholder",
-          "alt": "Assortiment de viennoiseries sur un plateau en bois",
-          "imageQuery": "assorted french pastries wooden tray",
-          "photographer": null,
-          "photographerUrl": null
+          "url": "https://images.unsplash.com/photo-1696987007764-7f8b85dd3033?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHw2fHxTYWxsZSUyMGRlJTIwYmFpbiUyMCUyNiUyMHIlQzMlQTlub3ZhdGlvbnxmcnwwfDB8fHwxNzc5ODc3Nzc1fDA&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+          "alt": "a bathroom with two sinks, a toilet and a shower",
+          "imageQuery": "Salle de bain & rénovation",
+          "photographer": "Clay Banks",
+          "photographerUrl": "https://unsplash.com/@claybanks"
         }
       },
       {
-        "id": "commande-ligne",
-        "title": "Commande en ligne & livraison",
-        "description": "Gagnez du temps : commandez vos pains et viennoiseries depuis notre site. Retrait gratuit en boutique ou livraison dans un rayon de 5 km autour de Nantes.",
+        "id": "chauffage",
+        "title": "Chauffage & eau chaude sanitaire",
+        "description": "Conseil énergétique, installation et contrats d'entretien pour prolonger la durée de vie de vos équipements.",
         "bullets": [
-          "Commande simple en 2 clics",
-          "Créneaux de retrait flexibles (matin/après-midi)",
-          "Livraison à domicile (frais offerts dès 20€)",
-          "Paiement sécurisé en ligne"
+          "Chaudières gaz et condensation",
+          "Pompes à chaleur air-eau",
+          "Entretien annuel obligatoire"
         ],
         "image": {
-          "url": "https://images.unsplash.com/photo-1575709307838-fe78ad0d75fc?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHw3fHxvbmxpbmUlMjBicmVhZCUyMG9yZGVyJTIwc21hcnRwaG9uZXxmcnwwfDB8fHwxNzc5ODkyNDI0fDA&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
-          "alt": "black Android smartphone beside round white ceramic plate",
-          "imageQuery": "online bread order smartphone",
-          "photographer": "Giovanna Figliuolo",
-          "photographerUrl": "https://unsplash.com/@giovannafigliuolo_ladyalicesprings"
+          "url": "https://images.unsplash.com/photo-1548292194-dcb53d80747d?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHw3fHxDaGF1ZmZhZ2UlMjAlMjYlMjBlYXUlMjBjaGF1ZGUlMjBzYW5pdGFpcmV8ZnJ8MHwwfHx8MTc3OTg3Nzc3Nnww&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+          "alt": "selective focus photography of turned-on faucet",
+          "imageQuery": "Chauffage & eau chaude sanitaire",
+          "photographer": "Serenity Mitchell",
+          "photographerUrl": "https://unsplash.com/@mundane"
         }
       }
     ]
   },
   "contactPage": {
-    "headline": "Contactez Le Fournil",
-    "subtext": "Une question, une commande spéciale, un avis ? Nous sommes à votre écoute. Réponse sous 24h.",
+    "headline": "Contactez Plomberie Dubois",
+    "subtext": "Décrivez votre besoin (urgence, devis rénovation, entretien chauffage). Nous vous répondons rapidement par téléphone ou e-mail.",
     "fields": {
-      "name": "Votre nom",
-      "email": "Votre adresse email",
+      "name": "Nom complet",
+      "email": "E-mail",
       "message": "Votre message",
-      "submit": "Envoyer"
+      "submit": "Envoyer ma demande"
     },
-    "successMessage": "Merci ! Nous avons bien reçu votre message et vous répondrons dans les plus brefs délais.",
+    "successMessage": "Merci ! Votre message a bien été envoyé. Nous vous recontactons très vite.",
     "sidebar": {
-      "phone": "02 40 12 34 56",
-      "email": "bonjour@lefournil-nantes.fr",
-      "hours": "Lun–Sam : 7h–19h30 | Dim : 8h–13h",
-      "address": "12 Rue des Artisans, 44000 Nantes"
+      "phone": "02 35 00 00 00",
+      "email": "contact@plomberie-dubois-rouen.fr",
+      "hours": "Lun–Ven 8h–19h · Sam 9h–17h · Urgences 7j/7",
+      "address": "12 quai Cavelier de la Salle, 76000 Rouen"
     }
   },
   "footer": {
-    "description": "Boulangerie artisanale Le Fournil – pains au levain, viennoiseries et douceurs faites maison à Nantes. Venez découvrir le goût de l'authentique.",
-    "phone": "02 40 12 34 56",
-    "email": "bonjour@lefournil-nantes.fr",
-    "address": "12 Rue des Artisans, 44000 Nantes",
-    "socialLinks": [],
-    "legalNote": "© 2025 Boulangerie Le Fournil – Tous droits réservés. Site réalisé avec ❤️ à Nantes."
+    "description": "Artisan plombier chauffagiste à Rouen depuis 15 ans. Qualité, transparence et réactivité.",
+    "phone": "02 35 00 00 00",
+    "email": "contact@plomberie-dubois-rouen.fr",
+    "address": "12 quai Cavelier de la Salle, 76000 Rouen",
+    "socialLinks": [
+      {
+        "label": "Google",
+        "href": "https://google.com"
+      },
+      {
+        "label": "Facebook",
+        "href": "https://facebook.com"
+      }
+    ],
+    "legalNote": "© Plomberie Dubois — SIRET 000 000 000 00000 — Mentions légales"
   }
 }
