@@ -33,11 +33,11 @@
         "href": "/services"
       },
       "image": {
-        "url": "https://images.unsplash.com/photo-1777077239424-5885d28713d5?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHwxfHxQbG9tYmllciUyMHByb2Zlc3Npb25uZWwlMjBlbiUyMGludGVydmVudGlvbnxmcnwwfDB8fHwxNzc5ODc3NzcyfDA&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
-        "alt": "Man in sunglasses on a ladder truck",
-        "imageQuery": "Plombier professionnel en intervention",
-        "photographer": "Ryleigh Henschen",
-        "photographerUrl": "https://unsplash.com/@ryleighhenschen"
+        "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHwxfHxwbG9tYmllcnxlbnwwfDB8fHwxNzc5OTczNjMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "alt": "man wearing black pullover hoodie holding tool",
+        "imageQuery": "plombier",
+        "photographer": "Battlecreek Coffee Roasters",
+        "photographerUrl": "https://unsplash.com/@battlecreekcoffeeroasters"
       }
     },
     "servicesPreview": [
