@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "businessName": "'Boulangerie Le Fournil' à Nantes",
+    "tagline": "Le goût authentique du pain au levain à Nantes",
+    "locale": "fr",
+    "primaryColor": "#D2691E",
+    "logoUrl": null
+  },
+  "navigation": [
+    {
+      "label": "Accueil",
+      "href": "/"
+    },
+    {
+      "label": "Services",
+      "href": "/services"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    }
+  ],
+  "home": {
+    "hero": {
+      "title": "Le pain au levain, fait avec passion",
+      "subtitle": "Boulangerie artisanale à Nantes, nous vous proposons des pains, viennoiseries et pâtisseries préparés chaque jour avec des ingrédients locaux.",
+      "ctaPrimary": {
+        "label": "Découvrir nos produits",
+        "href": "/services"
+      },
+      "ctaSecondary": {
+        "label": "Nous contacter",
+        "href": "/contact"
+      },
+      "image": {
+        "url": "https://images.unsplash.com/photo-1686154596696-d6f594a98af9?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHwxfHxmcmVzaCUyMHNvdXJkb3VnaCUyMGJyZWFkJTIwYmFrZXJ5JTIwZGlzcGxheXxmcnwwfDB8fHwxNzc5OTUyNTQwfDA&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+        "alt": "a loaf of bread sitting on top of a counter",
+        "imageQuery": "fresh sourdough bread bakery display",
+        "photographer": "Ben Stein",
+        "photographerUrl": "https://unsplash.com/@benostein"
+      }
+    },
+    "servicesPreview": [
+      {
+        "title": "Pain au levain",
+        "description": "Notre spécialité : pain au levain naturel, cuit au feu de bois, avec farine bio de la région.",
+        "href": "/services#pain-levain",
+        "image": {
+          "url": "https://images.unsplash.com/photo-1587411768913-623b76d243c7?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHwyfHxzb3VyZG91Z2glMjBsb2FmJTIwY3V0dGluZyUyMGJvYXJkfGZyfDB8Mnx8fDE3Nzk5NTM0MDV8MA&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+          "alt": "brown wooden chopping board on white surface",
+          "imageQuery": "sourdough loaf cutting board",
+          "photographer": "Mockup Graphics",
+          "photographerUrl": "https://unsplash.com/@mockupgraphics"
+        }
+      },
+      {
+        "title": "Viennoiseries artisanales",
+        "description": "Croissants, pains au chocolat, brioches… faits maison chaque matin.",
+        "href": "/services#viennoiseries",
+        "image": {
+          "url": "https://images.unsplash.com/photo-1757334064796-5fe75f129f28?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHwzfHxmcmVzaCUyMGNyb2lzc2FudHMlMjBwYXN0cnklMjBkaXNwbGF5fGZyfDB8Mnx8fDE3Nzk5NTM0MDV8MA&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+          "alt": "Raw croissants ready for baking on a tray",
+          "imageQuery": "fresh croissants pastry display",
+          "photographer": "Jasper Rockey",
+          "photographerUrl": "https://unsplash.com/@jr68333"
+        }
+      },
+      {
+        "title": "Commandes sur mesure",
+        "description": "Pour vos événements : pains spéciaux, buffets, gâteaux. Commandez en ligne ou en boutique.",
+        "href": "/services#commandes",
+        "image": {
+          "url": "https://images.unsplash.com/photo-1771160962860-7c0ccd3e2171?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHw0fHxjdXN0b20lMjBicmVhZCUyMG9yZGVyJTIwZXZlbnR8ZnJ8MHwyfHx8MTc3OTk1MTExNXww&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+          "alt": "Freshly baked artisan bread cooling on a rack.",
+          "imageQuery": "custom bread order event",
+          "photographer": "David Todd McCarty",
+          "photographerUrl": "https://unsplash.com/@davidtoddmccarty"
+        }
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Le meilleur pain de Nantes ! Le levain est parfait, la croûte croustillante et la mie moelleuse. Un régal.",
+        "author": "Sophie L.",
+        "role": "Cliente fidèle",
+        "rating": 5
+      },
+      {
+        "quote": "Les viennoiseries sont incroyables. Le croissant aux amandes est un pur délice. Je recommande vivement.",
+        "author": "Marc D.",
+        "role": "Habitué du quartier",
+        "rating": 5
+      },
+      {
+        "quote": "Nous avons commandé un pain de campagne pour notre mariage. Tout le monde a adoré ! Merci à toute l'équipe.",
+        "author": "Julie et Antoine",
+        "role": "Mariés",
+        "rating": 5
+      }
+    ],
+    "ctaBand": {
+      "title": "Prêt à goûter ?",
+      "text": "Passez nous voir ou commandez en ligne pour réserver vos produits préférés.",
+      "buttonLabel": "Contactez-nous",
+      "buttonHref": "/contact"
+    }
+  },
+  "servicesPage": {
+    "intro": {
+      "title": "Nos produits artisanaux",
+      "description": "Chez Le Fournil, nous mettons un point d'honneur à utiliser des ingrédients locaux et biologiques. Découvrez notre gamme de pains, viennoiseries et services sur mesure."
+    },
+    "sections": [
+      {
+        "id": "pain-levain",
+        "title": "Pain au levain",
+        "description": "Notre pain signature, fermenté lentement avec un levain naturel, cuit dans un four à bois. Disponible en plusieurs variétés : tradition, complet, aux céréales, aux noix.",
+        "bullets": [
+          "Levain naturel sans additifs",
+          "Farine bio de la région nantaise",
+          "Cuisson au feu de bois pour une croûte parfaite",
+          "Plusieurs formats : 400g, 800g, pain de campagne"
+        ],
+        "image": {
+          "url": "https://images.unsplash.com/photo-1714735655425-3ba510c2f8f7?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHw1fHxzb3VyZG91Z2glMjBicmVhZCUyMHNsaWNlZCUyMHdvb2RlbiUyMGJvYXJkfGZyfDB8MHx8fDE3Nzk5NTM0MDZ8MA&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+          "alt": "a loaf of bread sitting on top of a wooden cutting board",
+          "imageQuery": "sourdough bread sliced wooden board",
+          "photographer": "Robert Stump",
+          "photographerUrl": "https://unsplash.com/@stumpie10"
+        }
+      },
+      {
+        "id": "viennoiseries",
+        "title": "Viennoiseries artisanales",
+        "description": "Préparées chaque matin avec du beurre AOP et des œufs fermiers. Nos viennoiseries sont légères et dorées à souhait.",
+        "bullets": [
+          "Croissants pur beurre",
+          "Pains au chocolat et pains aux raisins",
+          "Brioches tressées et brioches à la praline",
+          "Chaussons aux pommes maison"
+        ],
+        "image": {
+          "url": "https://images.unsplash.com/photo-1751151856149-5ebf1d21586a?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHw2fHxnb2xkZW4lMjBjcm9pc3NhbnRzJTIwY29vbGluZyUyMHJhY2t8ZnJ8MHwwfHx8MTc3OTk1MzQwN3ww&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+          "alt": "A variety of freshly baked pastries.",
+          "imageQuery": "golden croissants cooling rack",
+          "photographer": "Zoshua Colah",
+          "photographerUrl": "https://unsplash.com/@zoshuacolah"
+        }
+      },
+      {
+        "id": "commandes",
+        "title": "Commandes sur mesure",
+        "description": "Vous organisez un événement ? Nous réalisons des pains spéciaux, des buffets de viennoiseries, des gâteaux personnalisés. Livraison possible à Nantes et alentours.",
+        "bullets": [
+          "Pains décorés pour mariages et anniversaires",
+          "Buffets de viennoiseries pour entreprises",
+          "Gâteaux sur commande (chocolat, fruits, etc.)",
+          "Livraison gratuite pour toute commande de plus de 50€"
+        ],
+        "image": {
+          "url": "https://images.unsplash.com/photo-1702748566587-1dd01864aebb?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHw3fHxkZWNvcmF0aXZlJTIwYnJlYWQlMjB3cmVhdGglMjBldmVudHxmcnwwfDB8fHwxNzc5OTUzNDA3fDA&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+          "alt": "a cake sitting on top of a table next to flowers",
+          "imageQuery": "decorative bread wreath event",
+          "photographer": "Serghey Savchuk",
+          "photographerUrl": "https://unsplash.com/@savchuks"
+        }
+      }
+    ]
+  },
+  "contactPage": {
+    "headline": "Contactez Le Fournil",
+    "subtext": "Une question, une commande spéciale ? Remplissez le formulaire ou passez directement à la boutique. Nous sommes à votre écoute.",
+    "fields": {
+      "name": "Votre nom",
+      "email": "Votre email",
+      "message": "Votre message",
+      "submit": "Envoyer"
+    },
+    "successMessage": "Merci ! Nous vous répondrons dans les plus brefs délais.",
+    "sidebar": {
+      "phone": "02 40 12 34 56",
+      "email": "contact@fournil-nantes.fr",
+      "hours": "Lun-Sam : 7h-19h30 | Dim : 8h-13h",
+      "address": "12 Rue des Artisans, 44000 Nantes"
+    }
+  },
+  "footer": {
+    "description": "Boulangerie Le Fournil – Artisan boulanger à Nantes. Pains au levain, viennoiseries et commandes sur mesure. Fabrication locale et bio.",
+    "phone": "02 40 12 34 56",
+    "email": "contact@fournil-nantes.fr",
+    "address": "12 Rue des Artisans, 44000 Nantes",
+    "socialLinks": [],
+    "legalNote": "© 2025 Boulangerie Le Fournil. Tous droits réservés. Mentions légales."
+  }
+}
