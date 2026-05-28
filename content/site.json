@@ -33,11 +33,11 @@
         "href": "/services"
       },
       "image": {
-        "url": "https://images.unsplash.com/photo-1773863120758-172bd05090d2?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHwxfHxwbHVtYmVyJTIwc21pbGluZyUyMGhvbGRpbmclMjB3cmVuY2glMjBiYXRocm9vbXxmcnwwfDB8fHwxNzc5OTczNDc3fDA&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
-        "alt": "Man brushing teeth in front of a bathroom mirror.",
-        "imageQuery": "plumber smiling holding wrench bathroom",
-        "photographer": "Konstantinos Papadopoulos",
-        "photographerUrl": "https://unsplash.com/@kosti_2"
+        "url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHwxfHxwbG9tYmllcnxlbnwwfDB8fHwxNzc5OTczNjMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+        "alt": "man wearing black pullover hoodie holding tool",
+        "imageQuery": "plombier",
+        "photographer": "Battlecreek Coffee Roasters",
+        "photographerUrl": "https://unsplash.com/@battlecreekcoffeeroasters"
       }
     },
     "servicesPreview": [
