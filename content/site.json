@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "businessName": "Plombier Express",
+    "tagline": "Votre plombier de confiance pour interventions rapides et de qualité",
+    "locale": "fr",
+    "primaryColor": "#1E90FF",
+    "logoUrl": null
+  },
+  "navigation": [
+    {
+      "label": "Accueil",
+      "href": "/"
+    },
+    {
+      "label": "Services",
+      "href": "/services"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    }
+  ],
+  "home": {
+    "hero": {
+      "title": "Plombier professionnel à votre service",
+      "subtitle": "Intervention rapide, devis gratuit, satisfaction garantie",
+      "ctaPrimary": {
+        "label": "Demander un devis",
+        "href": "/contact"
+      },
+      "ctaSecondary": {
+        "label": "Nos services",
+        "href": "/services"
+      },
+      "image": {
+        "url": "https://images.unsplash.com/placeholder",
+        "alt": "Plombier souriant tenant une clé à molette dans une cuisine moderne",
+        "imageQuery": "plumber smiling holding wrench kitchen",
+        "photographer": null,
+        "photographerUrl": null
+      }
+    },
+    "servicesPreview": [
+      {
+        "title": "Dépannage urgence",
+        "description": "Intervention 7j/7 pour fuites, canalisations bouchées, chauffe-eau en panne.",
+        "href": "/services#depannage",
+        "image": {
+          "url": "https://images.unsplash.com/placeholder",
+          "alt": "Plombier réparant une fuite sous un évier",
+          "imageQuery": "plumber fixing leak under sink",
+          "photographer": null,
+          "photographerUrl": null
+        }
+      },
+      {
+        "title": "Installation sanitaire",
+        "description": "Pose de robinetterie, WC, lavabos, douches et baignoires sur mesure.",
+        "href": "/services#installation",
+        "image": {
+          "url": "https://images.unsplash.com/photo-1638975574479-256d8eb43fa6?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHwzfHxwbHVtYmVyJTIwaW5zdGFsbGluZyUyMG1vZGVybiUyMHNob3dlcnxmcnwwfDJ8fHwxNzc5OTczMzc1fDA&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+          "alt": "a shower head in a bathroom next to a window",
+          "imageQuery": "plumber installing modern shower",
+          "photographer": "Max Ovcharenko",
+          "photographerUrl": "https://unsplash.com/@chestmax"
+        }
+      },
+      {
+        "title": "Chauffage et chauffe-eau",
+        "description": "Entretien, réparation et remplacement de chaudières et chauffe-eau.",
+        "href": "/services#chauffage",
+        "image": {
+          "url": "https://images.unsplash.com/placeholder",
+          "alt": "Plombier vérifiant un chauffe-eau dans une cave",
+          "imageQuery": "plumber checking water heater basement",
+          "photographer": null,
+          "photographerUrl": null
+        }
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Intervention rapide et efficace. Fuite réparée en moins d'une heure. Je recommande vivement !",
+        "author": "Sophie L.",
+        "role": "Cliente depuis 2022",
+        "rating": 5
+      },
+      {
+        "quote": "Équipe professionnelle et sympathique. Devis clair, travaux soignés. Merci !",
+        "author": "Marc D.",
+        "role": "Propriétaire maison",
+        "rating": 5
+      },
+      {
+        "quote": "Service d'urgence un dimanche soir. Le plombier est arrivé rapidement et a résolu le problème. Un grand merci.",
+        "author": "Émilie R.",
+        "role": "Cliente satisfaite",
+        "rating": 5
+      }
+    ],
+    "ctaBand": {
+      "title": "Besoin d'un plombier ?",
+      "text": "Contactez-nous pour un devis gratuit et une intervention rapide.",
+      "buttonLabel": "Contactez-nous",
+      "buttonHref": "/contact"
+    }
+  },
+  "servicesPage": {
+    "intro": {
+      "title": "Nos services de plomberie",
+      "description": "Plombier Express vous propose une gamme complète de services pour tous vos besoins en plomberie, chauffage et sanitaire. Intervention rapide, travail soigné et tarifs transparents."
+    },
+    "sections": [
+      {
+        "id": "depannage",
+        "title": "Dépannage urgence",
+        "description": "Nous intervenons 7 jours sur 7 pour tous vos problèmes urgents : fuites d'eau, canalisations bouchées, chauffe-eau en panne, toilettes obstruées. Notre équipe se déplace rapidement avec du matériel professionnel.",
+        "bullets": [
+          "Intervention sous 2h en zone urbaine",
+          "Diagnostic gratuit sur place",
+          "Devis transparent avant travaux",
+          "Garantie sur toutes les réparations"
+        ],
+        "image": {
+          "url": "https://images.unsplash.com/photo-1676210134190-3f2c0d5cf58d?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHw1fHxwbHVtYmVyJTIwdXNpbmclMjBpbnNwZWN0aW9uJTIwY2FtZXJhJTIwZHJhaW58ZnJ8MHwwfHx8MTc3OTk3MzM3Nnww&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+          "alt": "a man fixing a water heater in a room",
+          "imageQuery": "plumber using inspection camera drain",
+          "photographer": "Timur Shakerzianov",
+          "photographerUrl": "https://unsplash.com/@shaker_jpg"
+        }
+      },
+      {
+        "id": "installation",
+        "title": "Installation sanitaire",
+        "description": "De la simple pose de robinet à l'aménagement complet d'une salle de bains, nous réalisons tous vos projets d'installation sanitaire avec précision et dans le respect des normes.",
+        "bullets": [
+          "Pose de robinetterie et mitigeurs",
+          "Installation de WC, lavabos, douches",
+          "Aménagement salle de bains sur mesure",
+          "Mise aux normes et conformité"
+        ],
+        "image": {
+          "url": "https://images.unsplash.com/photo-1747227830516-b9643cc377fb?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&ixid=M3w5NjIyNjV8MHwxfHNlYXJjaHw2fHxwbHVtYmVyJTIwaW5zdGFsbGluZyUyMG1vZGVybiUyMHNpbmslMjBiYXRocm9vbXxmcnwwfDB8fHwxNzc5OTczMzc3fDA&ixlib=rb-4.1.0&q=80&w=1200&auto=format",
+          "alt": "Modern bathroom sink with accessories on wooden counter.",
+          "imageQuery": "plumber installing modern sink bathroom",
+          "photographer": "Haberdoedas",
+          "photographerUrl": "https://unsplash.com/@haberdoedas"
+        }
+      },
+      {
+        "id": "chauffage",
+        "title": "Chauffage et chauffe-eau",
+        "description": "Entretien, réparation et remplacement de vos systèmes de chauffage et de production d'eau chaude. Nous travaillons avec toutes les marques et garantissons un service fiable.",
+        "bullets": [
+          "Entretien annuel chaudière",
+          "Réparation chauffe-eau électrique et gaz",
+          "Remplacement chaudière et ballon",
+          "Dépannage chauffage central"
+        ],
+        "image": {
+          "url": "https://images.unsplash.com/placeholder",
+          "alt": "Plombier réparant une chaudière murale dans une buanderie",
+          "imageQuery": "plumber repairing wall boiler utility room",
+          "photographer": null,
+          "photographerUrl": null
+        }
+      }
+    ]
+  },
+  "contactPage": {
+    "headline": "Contactez Plombier Express",
+    "subtext": "Besoin d'un devis, d'une intervention urgente ou d'un conseil ? Remplissez le formulaire ci-dessous, nous vous répondrons dans les plus brefs délais.",
+    "fields": {
+      "name": "Votre nom",
+      "email": "Votre email",
+      "message": "Votre message",
+      "submit": "Envoyer"
+    },
+    "successMessage": "Merci pour votre message ! Nous vous contacterons sous 24h.",
+    "sidebar": {
+      "phone": "01 23 45 67 89",
+      "email": "contact@plombier-express.fr",
+      "hours": "Lun-Sam : 8h-20h | Dimanche : 9h-18h",
+      "address": "12 Rue de la Plomberie, 75001 Paris"
+    }
+  },
+  "footer": {
+    "description": "Plombier Express - Votre artisan plombier de confiance à Paris et Île-de-France. Interventions rapides, devis gratuits, satisfaction client.",
+    "phone": "01 23 45 67 89",
+    "email": "contact@plombier-express.fr",
+    "address": "12 Rue de la Plomberie, 75001 Paris",
+    "socialLinks": [],
+    "legalNote": "© 2025 Plombier Express - Mentions légales - Tous droits réservés."
+  }
+}
